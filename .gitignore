@@ -3,3 +3,7 @@
 ################################################################################
 
 /CommonLibrary/bin/Debug
+/CommonLibrary/obj/Debug
+/HttpClientHelper/bin/Debug
+/HttpClientHelper/packages
+/HttpClientHelper/.vs/HttpClientHelper/v16

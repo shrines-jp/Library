@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryHelper", "..\ActiveDirectoryHelper\ActiveDirectoryHelper.csproj", "{4F7C64E4-1AE5-4E11-A26B-3D960465616D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientHelper", "HttpClientHelper.csproj", "{4EBA159A-8AD0-4147-8848-9754DF06E50B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4F7C64E4-1AE5-4E11-A26B-3D960465616D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F7C64E4-1AE5-4E11-A26B-3D960465616D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F7C64E4-1AE5-4E11-A26B-3D960465616D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F7C64E4-1AE5-4E11-A26B-3D960465616D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBA159A-8AD0-4147-8848-9754DF06E50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBA159A-8AD0-4147-8848-9754DF06E50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBA159A-8AD0-4147-8848-9754DF06E50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBA159A-8AD0-4147-8848-9754DF06E50B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E36DA74F-1C68-461D-9CBE-4B75AF76CF30}
+		SolutionGuid = {C5607DF2-A275-4CE0-BDAB-F5B7EEBEB0CB}
 	EndGlobalSection
 EndGlobal
